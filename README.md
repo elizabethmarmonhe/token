@@ -1,6 +1,8 @@
 <!-- # 🪙 Token -->
 <img alt="workshop/token" width="1412" src="../.resources/token.png">
 
+Discord: elllizabeth
+
 A transparent & shielded custom token in Leo.
 
 ## How to Build
